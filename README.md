@@ -2,4 +2,6 @@
  
 **Objective:** To develop a prototype machine learning model for Zyfra, a company that develops efficiency solutions for heavy industry, that predicts the amount of gold recovered from ore during the extraction and purification processes so that Zyfra can optimize product efficiency and identify unprofitable parameters.
 
-**Skills Demonstrated:** Data evaluation, outlier detection and removal, data visualization, machine learning model selection, cross-validation, hyperparameter tuning, and evaluating models using sMAPE (symmetric mean absolute percentage error)
+**Accomplishment:** I utilized cross-validation to develop a prototype random forest regressor model that predicts the amount of gold recovered from ore with an average symmetric mean absolute percentage error (sMAPE) value of 7.89, compared to a DummyRegressor with an average sMAPE value of 8.93.
+
+**Skills Demonstrated:** Data evaluation, data visualization, kernel density estimation (KDE), cross-validation, and model evaluation
